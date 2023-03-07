@@ -18,19 +18,19 @@ first_order_date                    :   First Order Date
 
 last_order_date                     :   Last Order Date
 
-last_order_date_online              :   Müşterinin online platformda yaptığı son alışveriş tarihi
+last_order_date_online              :   Date of the customer's last purchase on the online platform
 
-last_order_date_offline             :   Müşterinin offline platformda yaptığı son alışveriş tarihi
+last_order_date_offline             :   Date of the customer's last offline purchase
 
-order_num_total_ever_online         :   Müşterinin online platformda yaptığı toplam alışveriş sayısı
+order_num_total_ever_online         :   Total number of purchases made by the customer on the online platform
 
-order_num_total_ever_offline        :   Müşterinin offline'da yaptığı toplam alışveriş sayısı
+order_num_total_ever_offline        :   Total number of offline purchases made by the customer
 
-customer_value_total_ever_offline   :   Müşterinin offline alışverişlerinde ödediği toplam ücret
+customer_value_total_ever_offline   :   Total price paid by the customer for offline shopping
 
-customer_value_total_ever_online    :   Müşterinin online alışverişlerinde ödediği toplam ücret
+customer_value_total_ever_online    :   Total price paid by the customer for online shopping
 
-interested_in_categories_12         :   Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
+interested_in_categories_12         :   List of categories in which the customer has shopped in the last 12 months
 
 # RFM Metrics Calculating & Segmentation 
 
